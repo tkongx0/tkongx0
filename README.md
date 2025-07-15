@@ -12,6 +12,8 @@ I'm a passionate and versatile software developer with experience building enter
 - Currently diving into **Golang** to expand my backend capabilities.
 - Always open to learning new frameworks, tools, and design patterns.
 
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tou-kong)
+
 ---
 ### Languages and Tools
 
