@@ -1,11 +1,16 @@
-## Hey all 👋
+## 👋  Hi, I'm Tou!
 
-My name is Tou and I'm a dynamic software developer. My previous experiences include working on enterprise applications with C# and Visual Professional. I love to code in Python which I have lead a few backend projects within my career. I enjoy cloud services and love learning new things.
+I'm a passionate and versatile software developer with experience building enterprise applications using **C#/.NET** and scripting robust backend tools with **Python**. Over the years, I’ve led several automation and cloud-based integration projects, and I’m always exploring ways to grow my skills and contribute to meaningful solutions.
 
-- 🔭 I’m currently working on API integrations, building a dash board to view most played, popular artists, etc through music sources like Spotify.
-- ⚡ I most recently built a Python webscraper for existing blog pages which extracts and imports each page over to WordPress' API backend.
-- 🌱 I’m currently interested in learning Golang.
-- 👯 I’m looking to collaborate on any projects to advance my growth as a developer.
+### 🔧 What I Work On
+- 🧠 **Backend development** using Python — from automation scripts to full CI/CD pipelines using **Azure Functions** and **GitHub Actions**.
+- 🎧 Currently building a **music dashboard** that pulls popular artists and track data using **Spotify’s API** and other music platforms.
+- 📰 Built a **Python web scraper** to migrate existing blog content into WordPress via their REST API, complete with dynamic imports and error handling.
+- ☁️ Passionate about **cloud services**, API design, and data-driven solutions.
+
+### 🌱 What I’m Learning
+- Currently diving into **Golang** to expand my backend capabilities.
+- Always open to learning new frameworks, tools, and design patterns.
 
 ---
 ### Languages and Tools
