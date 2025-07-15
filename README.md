@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hey all 👋
+
+My name is Tou and I'm a dynamic software developer. My previous experiences include working on enterprise applications with C# and Visual Professional. I love to code in Python which I have lead a few backend projects within my career. I enjoy cloud services and love learning new things.
+
+- 🔭 I’m currently working on API integrations, building a dash board to view most played, popular artists, etc through music sources like Spotify.
+- ⚡ I most recently built a Python webscraper for existing blog pages which extracts and imports each page over to WordPress' API backend.
+- 🌱 I’m currently interested in learning Golang.
+- 👯 I’m looking to collaborate on any projects to advance my growth as a developer.
+
+---
+### Languages and Tools
+
+<img align="left" alt="Java" width="20px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
 
 <!--
 **tkongx0/tkongx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
