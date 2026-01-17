@@ -4,7 +4,7 @@ I'm a **Software Developer** specializing in the intersection of **Backend Engin
 
 ### 🔧 What I'm Building
 - 🧠 **AI Agent Orchestration:** Leveraging Azure Functions and Python to build "skills" and "tools" for agentic workflows.
-- 🎧 **Intelligent Data Pipelines:** Developing robust backend integrations (Spotify API, Custom Scrapers) that serve as the knowledge base for RAG (Retrieval-Augmented Generation) systems.
+- 🎧 **Intelligent Data Pipelines:** Exploring backend architectures for RAG (Retrieval-Augmented Generation) systems, focusing on data ingestion through public APIs and custom web scrapers to build intelligent knowledge bases.
 - ☁️ **Enterprise Automation:** Architecting CI/CD pipelines with GitHub Actions and building scalable Power Automate flows for complex business logic.
 
 ### 🌱 AI & Agent Research (Current Focus)
